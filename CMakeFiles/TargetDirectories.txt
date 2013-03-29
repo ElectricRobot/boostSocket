@@ -1,0 +1,2 @@
+/Users/masahiko/Programs/boostSocket/CMakeFiles/client.dir
+/Users/masahiko/Programs/boostSocket/CMakeFiles/server.dir
